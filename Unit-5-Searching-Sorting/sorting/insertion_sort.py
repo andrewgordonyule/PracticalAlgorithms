@@ -1,6 +1,8 @@
 # Insertion Sort Algorithm
 
-# Time Complexity: O(n^2)
+# Time Complexity:
+# Worst Case O(n^2)
+# Best Case: O(n)
 def insertion_sort(arr):
 
     n = len(arr)
